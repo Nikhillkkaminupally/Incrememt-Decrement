@@ -1,0 +1,3 @@
+export const INCREMENT_VALUE = 'INCREMENT VALUE';
+export const DECREMENT_VALUE = 'DECREMENT VALUE';
+export const RESET_VALUE = 'RESET VALUE';
